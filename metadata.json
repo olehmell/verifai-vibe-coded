@@ -1,0 +1,5 @@
+{
+  "name": "VerifAI Link Checker",
+  "description": "An AI-powered verification tool using Gemini and Google Search to assess the credibility of links and text claims.",
+  "requestFramePermissions": []
+}
